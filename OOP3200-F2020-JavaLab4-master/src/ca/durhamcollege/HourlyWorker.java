@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public class HourlyWorker extends Employee
 {
-    //Declarations
+    //Declarations //
     private double hourlyRate;
     private double hoursPerWeek;
 
